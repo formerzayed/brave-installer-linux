@@ -1,11 +1,9 @@
-# Aur
-sudo pacman -S --needed git base-devel
-git clone https://aur.archlinux.org/yay.git
-cd yay
-makepkg -si
+# AUR
+git clone https://aur.archlinux.org/brave-bin.git
+cd brave-bin
 
-# Installation
-yay -S brave
+# Installing
+makepkg -si
 
 # Launching
 brave
