@@ -4,7 +4,7 @@ This is a installer for Brave Browser on linux. It can easily install Brave on a
 ## How to install ?
 First you need to clone this repository. Type
 ```bash
-git clone https://github.com/DevXurde/brave-installer-linux.git
+git clone https://github.com/ZayedMalick/brave-installer-linux.git
 ```
 Now inside the brave-installer-linux folder you will see install.py file and some .sh files. These are the two ways to install brave via this installer. 
 - install.py
